@@ -1,4 +1,4 @@
-# WifiPassword with Batch Coding
+# Wifi-Password with Batch Coding
 You can See Wifi Name and Their Password
 
 Example:-
